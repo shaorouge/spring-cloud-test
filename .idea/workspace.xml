@@ -1,16 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c0c24f6-9eca-472e-a752-89ea967581c2" name="Default Changelist" comment="init" />
+    <list default="true" id="94bb4ff5-97b9-45c9-8df6-a75f136d59e8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8004/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumerconsul-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-api-commons/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-client-3355/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-client-3366/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-eureka-server7002/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumerzk-order80/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-gateway-gateway9527/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-consumer-feign-order80/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-provider-payment8001/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-config-center-3344/target/" />
+    <ignored path="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9001/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9002/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order83/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9003/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-provider-payment9004/target/" />
+    <ignored path="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/target/" />
+    <ignored path="$PROJECT_DIR$/seata-order-service2001/target/" />
+    <ignored path="$PROJECT_DIR$/seata-storage-service2002/target/" />
+    <ignored path="$PROJECT_DIR$/seata-account-service2003/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/IdGeneratorSnowflake.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="14" selection-start-line="14" selection-end-line="47" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1127">
+              <caret line="58" column="5" selection-start-line="35" selection-start-column="3" selection-end-line="58" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0.jar!/io/seata/spring/annotation/GlobalTransactional.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/OrderService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -18,52 +167,135 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/eiletxie/springcloud/alibaba/PaymentMain9003.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9004/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/eiletxie/springcloud/alibaba/PaymentMain9004.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9004/src/main/java/com/eiletxie/springcloud/alibaba/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-provider-payment9003/src/main/java/com/eiletxie/springcloud/alibaba/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/pom.xml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/config/ApplicationContextConfig.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/OrderMain84.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/service/PaymentFallbackService.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-consumer-nacos-order84/src/main/java/com/eiletxie/springcloud/alibaba/controller/CircleBreakerController.java" />
+        <option value="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/java/com/eiletxie/springcloud/alibaba/controller/RateLimitController.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/domain/Order.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/dao/OrderDao.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/SeataOrderMain2001.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/dao/StorageDao.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/StorageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/controller/StorageController.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/SeataStorageMain2002.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/pom.xml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/SeataAccountMain2003.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/domain/Account.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/StorageMapper.xml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain/Storage.java" />
+        <option value="$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/IdGeneratorSnowflake.java" />
+        <option value="$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/controller/OrderController.java" />
+      </list>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Render\.m2\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="mavenHome" value="E:/Java/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\Java\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1eTjljLeMiTUAuIMgMRgNqsw0EG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="505" />
+    <option name="y" value="9" />
+    <option name="width" value="1313" />
+    <option name="height" value="985" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cloud2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cloud2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584608452243" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="ReactorSettings">
-    <option name="notificationShown" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3534884" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\html\spring5\cloudtest" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.vivwe.controller" />
+      <recent name="com.eiletxie.springcloud.alibaba.domain" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\html\spring5\cloudtest" />
-      <recent name="G:\html\spring5\cloudtest\cloud-stream-rabbitmq-consumer8803\src\main\resources" />
-      <recent name="G:\html\spring5\cloudtest\cloud-stream-rabbitmq-consumer8803\src\main\java" />
+      <recent name="E:\IdeaWorkspace\springcloud_sell\cloud2020" />
+      <recent name="E:\IdeaWorkspace\springcloud_sell\cloud2020\seata-account-service2003\src\main\resources" />
+      <recent name="E:\IdeaWorkspace\springcloud_sell\cloud2020\seata-account-service2003\src\main\java\com\eiletxie\springcloud\alibaba" />
+      <recent name="E:\IdeaWorkspace\springcloud_sell\cloud2020\seata-storage-service2002\src\main\java\com\eiletxie\springcloud\alibaba" />
+      <recent name="E:\IdeaWorkspace\springcloud_sell\cloud2020\seata-storage-service2002\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,53 +304,76 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MainApp8401">
+  <component name="RunManager" selected="Application.IdGeneratorSnowflake">
+    <configuration name="IdGeneratorSnowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eiletxie.springcloud.alibaba.service.IdGeneratorSnowflake" />
+      <module name="seata-order-service2001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-config-center-3344" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.ConfigCenterMain3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.ConfigCenterMain3344" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloud-config-center-3355" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.ConfigClientMain3355" />
+      <module name="cloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.ConfigClientMain3355" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloud-config-center-3366" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.ConfigClientMain3366" />
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.ConfigClientMain3366" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.EurekaMain7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.EurekaMain7001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7002" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.EurekaMain7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.EurekaMain7002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="GatewayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-gateway-gateway9527" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.GateWayMain9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.GatewayMain9527" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-hystrix-dashboard9001" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.HystrixDashboardMain9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.HystrixDashboardMain9001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,132 +382,187 @@
       <module name="cloudalibaba-sentinel-service8401" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vivwe.*" />
+          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.MainApp8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.MainApp8401" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="NacosConfigClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloudalibaba-config-nacos-client3377" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vivwe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.NacosConfigClientMain3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.NacosConfigClientMain3377" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NacosProviderMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloudalibaba-provider-payment9001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vivwe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.NacosProviderMain9001" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NacosProviderMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloudalibaba-provider-payment9002" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.NacosProviderMain9002" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NacosProviderMain9011 Copy of 9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
-      <module name="cloudalibaba-provider-payment9001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vivwe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.NacosProviderMain9001" />
-      <option name="VM_PARAMETERS" value="-DServer.port=9011" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.OrderConsulMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="OrderFeignMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="cloud-consummer-feign-order80" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.OrderFeignMain80" />
+      <module name="cloud-consumer-feign-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.OrderFeignMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-feign-hystrix-order80" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.OrderHystrixMain80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.OrderHystrixMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderNacosMain83" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloudalibaba-consumer-nacos-order83" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vivwe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.OrderNacosMain83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.OrderNacosMain83" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.Payment8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentConsul8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.PaymentConsul8006" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-hystrix-payment8001" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.PaymentHystrixMain8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.PaymentHystrixMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8001" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.PaymentMain8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.PaymentMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8002" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.PaymentMain8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.ailibaba.PaymentMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.ailibaba.PaymentMain9002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain9003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloudalibaba-provider-payment9003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.PaymentMain9003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataAccountMain2003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-account-service2003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.SeataAccountMain2003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderMain2001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.SeataOrderMain2001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataStorageMain2002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="seata-storage-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eiletxie.springcloud.alibaba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.alibaba.SeataStorageMain2002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.StreamMQMain8801" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-stream-rabbitmq-consumer8802" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vivwe.StreamMQMain8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.StreamMQMain8802" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-stream-rabbitmq-consumer8803" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="vivwe.StreamMQMain8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eiletxie.springcloud.StreamMQMain8803" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdGeneratorSnowflake" />
+        <item itemvalue="Spring Boot.SeataStorageMain2002" />
+        <item itemvalue="Spring Boot.SeataAccountMain2003" />
         <item itemvalue="Spring Boot.MainApp8401" />
-        <item itemvalue="Spring Boot.OrderNacosMain83" />
-        <item itemvalue="Spring Boot.NacosProviderMain9001" />
-        <item itemvalue="Spring Boot.NacosConfigClientMain3377" />
-        <item itemvalue="Spring Boot.NacosProviderMain9011 Copy of 9001" />
+        <item itemvalue="Spring Boot.PaymentMain9003" />
       </list>
     </recent_temporary>
   </component>
@@ -261,151 +571,589 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c0c24f6-9eca-472e-a752-89ea967581c2" name="Default Changelist" comment="" />
-      <created>1594352629042</created>
+      <changelist id="94bb4ff5-97b9-45c9-8df6-a75f136d59e8" name="Default Changelist" comment="" />
+      <created>1584263954643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1594352629042</updated>
-      <workItem from="1594352631579" duration="21081000" />
-      <workItem from="1594429535011" duration="1829000" />
-      <workItem from="1594543017914" duration="5578000" />
-      <workItem from="1594555218902" duration="2619000" />
-      <workItem from="1594602137006" duration="11926000" />
-      <workItem from="1594689286709" duration="11232000" />
-      <workItem from="1594774459486" duration="14906000" />
-      <workItem from="1594880876358" duration="1425000" />
-      <workItem from="1594949418690" duration="6566000" />
-      <workItem from="1595208170061" duration="2385000" />
-      <workItem from="1595241229321" duration="1254000" />
-      <workItem from="1595292513160" duration="1228000" />
-      <workItem from="1595491168892" duration="4104000" />
-      <workItem from="1595552866232" duration="5689000" />
-      <workItem from="1595578078099" duration="1130000" />
-      <workItem from="1595579608713" duration="429000" />
+      <updated>1584263954643</updated>
+      <workItem from="1584263957232" duration="1019000" />
+      <workItem from="1584265031828" duration="32182000" />
+      <workItem from="1584533875827" duration="21058000" />
+      <workItem from="1584608772037" duration="613000" />
     </task>
+    <task id="LOCAL-00001" summary="用alibaba Nacos替代eureka、config功能">
+      <created>1584418490110</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584418490110</updated>
+    </task>
+    <task id="LOCAL-00002" summary="采用sentinel来实现请求的限流，熔断、降级，以及流控规则的持久化">
+      <created>1584522252641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584522252641</updated>
+    </task>
+    <task id="LOCAL-00003" summary="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题，并新增总结的思维导图">
+      <created>1584602388477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584602388477</updated>
+    </task>
+    <task id="LOCAL-00004" summary="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题，并新增总结的思维导图的">
+      <created>1584605592910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584605592910</updated>
+    </task>
+    <task id="LOCAL-00005" summary="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题">
+      <created>1584607893758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584607893758</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54872000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="505" y="9" width="1313" height="985" extended-state="1" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2745411" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Run Dashboard" order="2" weight="0.38425383" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.32902467" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Java Enterprise" order="16" weight="0.3287858" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.4828412" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32917038" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
   </component>
   <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="用alibaba Nacos替代eureka、config功能" />
+    <MESSAGE value="采用sentinel来实现请求的限流，熔断、降级，以及流控规则的持久化" />
+    <MESSAGE value="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题，并新增总结的思维导图" />
+    <MESSAGE value="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题，并新增总结的思维导图的" />
+    <MESSAGE value="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="采用Seata来解决 订单、账户、库存微服务之间的全局事务问题" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2440" y="118" width="893" height="804" key="#NacosProviderMain9001_(1)" timestamp="1594790071891">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2440" y="118" width="893" height="804" key="#NacosProviderMain9001_(1)/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594790071891" />
-    <state x="520" y="118" key="#OrderFeignMain80" timestamp="1594354587671">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="520" y="118" key="#OrderFeignMain80/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594354587671" />
-    <state x="2360" y="94" key="#Project_Structure" timestamp="1595575924907">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2360" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595575924907" />
-    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1594693747898">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2685" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594693747898" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594354410706">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594354410706" />
-    <state x="2660" y="213" key="FileChooserDialogImpl" timestamp="1595576146236">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="213" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594354103524" />
-    <state x="2660" y="213" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595576146236" />
-    <state x="2704" y="439" key="Github.CreateGistDialog" timestamp="1595574505725">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2704" y="439" key="Github.CreateGistDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595574505725" />
-    <state width="1529" height="214" key="GridCell.Tab.0.bottom" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.0.center" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.0.left" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.0.right" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.1.bottom" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.1.center" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.1.left" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="214" key="GridCell.Tab.1.right" timestamp="1595508226223">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="300" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594978769694" />
-    <state width="1529" height="214" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595508226223" />
-    <state width="1529" height="162" key="GridCell.Tab.2.bottom" timestamp="1594695401974">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="162" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594695401974" />
-    <state width="1529" height="162" key="GridCell.Tab.2.center" timestamp="1594695401974">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="162" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594695401974" />
-    <state width="1529" height="162" key="GridCell.Tab.2.left" timestamp="1594695401974">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="162" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594695401974" />
-    <state width="1529" height="162" key="GridCell.Tab.2.right" timestamp="1594695401974">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1529" height="162" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594695401974" />
-    <state x="2410" y="174" key="Maven.ArtifactSearchDialog" timestamp="1594698879070">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594353776816" />
-    <state x="2410" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594698879070" />
-    <state x="625" y="224" key="NewModule_or_Project.wizard" timestamp="1594354105195">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="625" y="224" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594354105195" />
-    <state x="2360" y="94" key="SettingsEditor" timestamp="1595578095983">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2360" y="94" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595578095983" />
-    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595575837834">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595575837834" />
-    <state x="2681" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595575914386">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2681" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595575914386" />
-    <state x="2262" y="180" key="new project wizard" timestamp="1595491753520">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="342" y="180" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1594354167371" />
-    <state x="2262" y="180" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595491753520" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudalibaba-sentinel-service8401/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/registry.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/controller.java" />
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/dao/OrderDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper/OrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="9" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain.java" />
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-483" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="10" selection-start-line="10" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1808">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/config/MyBatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/registry.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/DataSourceProxyConfig.java" />
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/config/DataSourceProxyConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/domain/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/mapper/StorageMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/domain/CommonResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/dao/StorageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="12" selection-start-column="2" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/StorageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" selection-start-line="11" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" selection-start-line="16" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/domain/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/SeataAccountMain2003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/controller/StorageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="13" selection-start-line="13" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/SeataOrderMain2001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" selection-start-line="12" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/mapper/AccountMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/java/com/eiletxie/springcloud/alibaba/SeataStorageMain2002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" selection-start-line="12" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-storage-service2002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/IdGeneratorSnowflake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="14" selection-start-line="14" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="58" column="5" selection-start-line="35" selection-start-column="3" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/seata/seata-all/0.9.0/seata-all-0.9.0.jar!/io/seata/spring/annotation/GlobalTransactional.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-account-service2003/src/main/java/com/eiletxie/springcloud/alibaba/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/StorageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/src/main/java/com/eiletxie/springcloud/alibaba/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seata-order-service2001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>seata-order-service2001</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3534884" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

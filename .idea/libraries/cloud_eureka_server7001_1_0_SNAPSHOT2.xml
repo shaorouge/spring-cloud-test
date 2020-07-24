@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="cloud-eureka-server7001-1.0-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/cloud-eureka-server7001/target/cloud-eureka-server7001-1.0-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

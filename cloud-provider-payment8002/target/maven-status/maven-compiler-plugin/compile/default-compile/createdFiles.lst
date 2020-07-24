@@ -1,5 +1,0 @@
-com\vivwe\controller\PaymentController.class
-com\vivwe\PaymentMain8002.class
-com\vivwe\dao\PaymentDao.class
-com\vivwe\service\PaymentService.class
-com\vivwe\service\impl\PaymentServiceImpl.class
